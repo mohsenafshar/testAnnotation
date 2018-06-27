@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d(TAG, "onCreate: asd");
     }
+
+    public void logger(String log) {
+        Log.d(TAG, "logger: " + log);
+    }
 }
