@@ -1,1 +1,1 @@
-include ':library', ':intentannotation', ':intentprocessor'
+include ':library', ':intentannotation', ':intentprocessor', ':intentprocessor'
