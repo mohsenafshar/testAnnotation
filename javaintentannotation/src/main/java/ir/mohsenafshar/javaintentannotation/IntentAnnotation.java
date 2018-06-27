@@ -1,4 +1,4 @@
-package ir.mohsenafshar.intentannotation;
+package ir.mohsenafshar.javaintentannotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

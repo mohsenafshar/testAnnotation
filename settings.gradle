@@ -1,1 +1,1 @@
-include ':library', ':intentannotation', ':intentprocessor', ':intentprocessor'
+include ':library', ':intentannotation', ':intentprocessor', ':intentprocessor', ':javaintentannotation'
