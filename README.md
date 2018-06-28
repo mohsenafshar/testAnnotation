@@ -1,6 +1,6 @@
 # android-example
 
-[![Release](https://jitpack.io/v/jitpack/android-example.svg)](https://jitpack.io/#jitpack/android-example)
+[![Release](https://jitpack.io/v/jitpack/android-example.svg)](https://jitpack.io/#mohsenafshar/testannotation/1.0.4)
 
 Example Android library project that works with jitpack.io.
 
