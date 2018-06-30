@@ -21,7 +21,10 @@ and:
 
 ```gradle
 dependencies {
-    compile 'com.github.jitpack:android-example:{latest version}'
+    implementation 'com.github.mohsenafshar.testannotation:intentprocessor:1.0.4'
+    implementation 'com.github.mohsenafshar.testannotation:javaintentannotation:1.0.4'
+    
+    //compile 'com.github.jitpack:android-example:{latest version}'
 }
 ```
 
